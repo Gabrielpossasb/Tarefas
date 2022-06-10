@@ -1,7 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Alert,TextInput, Pressable,TouchableHighlight, Modal, ScrollView, Text, View, ImageBackground, TouchableOpacity } from 'react-native';
 import { useFonts, Aclonica_400Regular } from '@expo-google-fonts/aclonica';
-import AppLoading from 'expo-app-loading';
 import React, {useState, useEffect} from 'react';
 import { AntDesign } from '@expo/vector-icons';
 import AsyncStorage from '@react-native-async-storage/async-storage';
@@ -26,7 +25,6 @@ export default function App() {
 
   const [indexAtual, setIndexAtual] = useState();
 
-  let [fontsLoaded] = useFonts({Aclonica_400Regular,});
 
   useEffect(()=>{
     //alert('app carregado...');
@@ -45,9 +43,7 @@ export default function App() {
     
   },[])
 
-  if (!fontsLoaded) {
-    return <AppLoading />;
-  }
+
 
   function deletarTarefa(id){
     alert('Tarefa ID: '+id+'deletada com sucesso! :)');
