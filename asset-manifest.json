@@ -1,0 +1,36 @@
+{
+  "files": {
+    "app.js": "/Tarefas/static/js/app.334a78a7.chunk.js",
+    "app.js.map": "/Tarefas/static/js/app.334a78a7.chunk.js.map",
+    "runtime~app.js": "/Tarefas/static/js/runtime~app.cbc9802c.js",
+    "runtime~app.js.map": "/Tarefas/static/js/runtime~app.cbc9802c.js.map",
+    "static/js/2.47d6d983.chunk.js": "/Tarefas/static/js/2.47d6d983.chunk.js",
+    "static/js/2.47d6d983.chunk.js.map": "/Tarefas/static/js/2.47d6d983.chunk.js.map",
+    "fonts/Aclonica_400Regular.ttf": "/Tarefas/./fonts/Aclonica_400Regular.ttf",
+    "fonts/AntDesign.ttf": "/Tarefas/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/Tarefas/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/Tarefas/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/Tarefas/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/Tarefas/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/Tarefas/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/Tarefas/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/Tarefas/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/Tarefas/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/Tarefas/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/Tarefas/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/Tarefas/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/Tarefas/favicon-16.png",
+    "favicon-32.png": "/Tarefas/favicon-32.png",
+    "favicon.ico": "/Tarefas/favicon.ico",
+    "index.html": "/Tarefas/index.html",
+    "manifest.json": "/Tarefas/manifest.json",
+    "serve.json": "/Tarefas/serve.json",
+    "static/js/2.47d6d983.chunk.js.LICENSE.txt": "/Tarefas/static/js/2.47d6d983.chunk.js.LICENSE.txt",
+    "static/media/images.jpg": "/Tarefas/static/media/images.918f8c92.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.cbc9802c.js",
+    "static/js/2.47d6d983.chunk.js",
+    "static/js/app.334a78a7.chunk.js"
+  ]
+}
